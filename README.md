@@ -1,4 +1,4 @@
-Face Recognition - Missing Person Detection System
+FACE RECOGNITION - MISSING PERSON DETECTION SYSTEM
 
 📌 Project Overview
 
@@ -68,10 +68,6 @@ npm start
 # Start frontend server
 cd ../frontend
 npm start
-
-🖼️ Demo
-
-[Provide a link to the deployed project or screenshots]
 
 📧 Contact
 
