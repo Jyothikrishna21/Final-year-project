@@ -1,10 +1,11 @@
-FACE RECOGNITION - MISSING PERSON DETECTION SYSTEM
 
-📌 Project Overview
+# Face Recognition - Missing Person Detection System
+
+ # 📌 Project Overview
 
 Face Recognition is a missing person detection system developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project aims to help families reunite with their missing loved ones by leveraging deep learning techniques. The system detects faces using a Recurrent Neural Network (RNN) and matches them with registered cases in the database.
 
-🔍 How It Works
+# 🔍 How It Works
 
 Case Registration: The family of the missing person registers a case by providing details and an image.
 
@@ -16,7 +17,7 @@ Face Matching: When a new face is detected, the system compares it with the stor
 
 Location Tracking: If a match is found, the recent location of the detected person is displayed.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React.js, HTML, CSS, JavaScript, Bootstrap
 
@@ -28,7 +29,7 @@ Face Recognition Algorithm: RNN (Recurrent Neural Network)
 
 Additional Tools: OpenCV, Cloudinary (for image storage)
 
-🚀 Features
+# 🚀 Features
 
 Secure user authentication and case management
 
@@ -40,14 +41,14 @@ Location tracking of detected persons
 
 Responsive and user-friendly UI
 
-🏗️ Setup Instructions
+# 🏗️ Setup Instructions
 
-1️⃣ Clone the Repository
+# 1️⃣ Clone the Repository
 
 git clone https://github.com/Jyothikrishna21/Final-year-project.git
 cd Final-year-project
 
-2️⃣ Install Dependencies
+# 2️⃣ Install Dependencies
 
 # Install backend dependencies
 cd backend
@@ -57,9 +58,9 @@ npm install
 cd ../frontend
 npm install
 
-3️⃣ Configure Environment Variables
+# 3️⃣ Configure Environment Variables
 
-4️⃣ Start the Application
+# 4️⃣ Start the Application
 
 # Start backend server
 cd backend
@@ -69,7 +70,7 @@ npm start
 cd ../frontend
 npm start
 
-📧 Contact
+# 📧 Contact
 
 For any queries, feel free to reach out:
 
