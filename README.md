@@ -48,7 +48,7 @@ Responsive and user-friendly UI
 git clone https://github.com/Jyothikrishna21/Final-year-project.git
 cd Final-year-project
 
-# 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 
 # Install backend dependencies
 cd backend
@@ -58,9 +58,9 @@ npm install
 cd ../frontend
 npm install
 
-# 3️⃣ Configure Environment Variables
+3️⃣ Configure Environment Variables
 
-# 4️⃣ Start the Application
+4️⃣ Start the Application
 
 # Start backend server
 cd backend
@@ -70,7 +70,7 @@ npm start
 cd ../frontend
 npm start
 
-# 📧 Contact
+📧 Contact
 
 For any queries, feel free to reach out:
 
